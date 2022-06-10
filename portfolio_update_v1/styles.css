@@ -194,11 +194,25 @@ a.social:hover {
   border-bottom: 4px solid rgb(123, 116, 116);
   border-radius: 6px;
   transition: all .5s;
+  margin: 0 auto;
 }
 
 .projects:hover {
-  border-color: #f70505;
+  border-color: #070707;
 }
+
+.box {
+  margin: 30px;
+  padding: 100px ;
+  max-width:250px;
+  text-align: left;
+  background: rgb(255, 255, 255);
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 6px;
+  transition: all .5s;
+}
+
+
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
