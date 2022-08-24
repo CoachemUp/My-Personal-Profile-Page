@@ -62,7 +62,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/Jacksonville.jpg') no-repeat top center ;
+  background: url('pics/Jacksonville.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -166,15 +166,15 @@ a.social {
 }
 
 a.twitter {
-  background-image: url(images/twitter.svg);
+  background-image: url(pics/twitter.svg);
 }
 
 a.linkedin {
-  background-image: url(images/linkedin.svg);
+  background-image: url(pics/linkedin.svg);
 }
 
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url(pics/github.svg);
 }
 
 a.social:hover {
